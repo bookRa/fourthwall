@@ -1,0 +1,1 @@
+Convert this excerpt into a script format with dialogues and stage directions:

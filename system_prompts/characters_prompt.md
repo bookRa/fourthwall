@@ -1,0 +1,1 @@
+List all characters in the following story with descriptions:
