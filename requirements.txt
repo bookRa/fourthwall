@@ -1,6 +1,8 @@
 requests
 openai
-openinference-instrumentation-openai
 python-dotenv
+lumaai
+pyht
+openinference-instrumentation-openai
 arize-phoenix-otel
 arize-phoenix
