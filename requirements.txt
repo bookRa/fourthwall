@@ -3,3 +3,6 @@ openai
 python-dotenv
 lumaai
 pyht
+openinference-instrumentation-openai
+arize-phoenix-otel
+arize-phoenix
