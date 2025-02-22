@@ -4,3 +4,6 @@ openinference-instrumentation-openai
 python-dotenv
 arize-phoenix-otel
 arize-phoenix
+llama-index-vector-stores-supabase
+llama-index-agent-openai
+llama-index
