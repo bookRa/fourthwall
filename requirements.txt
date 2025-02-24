@@ -2,6 +2,7 @@ requests
 openai
 python-dotenv
 lumaai
+moviepy
 pyht
 openinference-instrumentation-openai
 arize-phoenix-otel
